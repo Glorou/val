@@ -29,10 +29,10 @@ module.exports = {
         short_name: `Cara`,
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
-        background_color: `#141821`,
+        background_color: `#FF6600`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#f6ad55`,
+        theme_color: `#FF6600`,
         display: `standalone`,
         icons: [
           {
